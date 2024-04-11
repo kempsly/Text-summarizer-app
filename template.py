@@ -6,7 +6,7 @@ from typing import Any, Dict, List, Optional, Tuple, Union
 
 logging.basicConfig(level=logging.INFO, format="[%(asctime)s]: %(message)s:")
 
-project_name = "Text-Summarizer Project"
+project_name = "Text-Summarizer-Project"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
